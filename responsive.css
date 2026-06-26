@@ -1,0 +1,51 @@
+@media(max-width:992px){
+
+.hero{
+text-align:center;
+}
+
+.hero h1{
+font-size:42px;
+}
+
+}
+
+@media(max-width:768px){
+
+.navbar-brand{
+font-size:24px;
+}
+
+.hero h1{
+font-size:34px;
+}
+
+.section-title h2{
+font-size:30px;
+}
+
+.card img{
+height:200px;
+}
+
+}
+
+@media(max-width:576px){
+
+.hero{
+padding:60px 0;
+}
+
+.hero h1{
+font-size:28px;
+}
+
+.btn-shop{
+width:100%;
+}
+
+footer{
+font-size:14px;
+}
+
+}
